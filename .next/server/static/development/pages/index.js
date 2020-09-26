@@ -104,7 +104,7 @@ module.exports =
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/runner/FortunateTallCodec/pages/index.js";
+var _jsxFileName = "/home/runner/astro-dev-sucks/pages/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -112,10 +112,30 @@ function HomePage() {
   return __jsx("div", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 2
+      lineNumber: 3
     },
     __self: this
-  }, "Welcome to Next.js!");
+  }, __jsx("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  }, "astro dev sucks lol get reckt"), __jsx("img", {
+    src: "https://img.jdaniels.me/i/BXklYkFwDpn5lbc7MTyW",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 5
+    },
+    __self: this
+  }), __jsx("img", {
+    src: "https://img.jdaniels.me/i/yrTDZ7KzUSnlbGkZcaCB",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6
+    },
+    __self: this
+  }));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (HomePage);
@@ -129,7 +149,7 @@ function HomePage() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/runner/FortunateTallCodec/pages/index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! /home/runner/astro-dev-sucks/pages/index.js */"./pages/index.js");
 
 
 /***/ }),
